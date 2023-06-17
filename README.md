@@ -9,7 +9,7 @@
 
 ***Hello, I'm Juu, a Front-end developer seeking new challenges and opportunities to enhance my skills and knowledge. I'm excited to share my projects and collaborate with the developer community.***
 
-- Currently, I'm learning HTML and CSS through Danki Code's Front-end material.
+- Currently, I'm learning HTML and CSS through Alura Front-end material.
 - I'm interested in developing responsive and SEO-optimized websites.
 - I'm open to collaborating on open source projects and networking with other developers.
 - You can reach me at dinnie.juu803@gmail.com
